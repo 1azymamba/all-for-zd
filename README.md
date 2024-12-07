@@ -7,3 +7,4 @@ This project is "All for Zero Day".
 ## Tools
 - [OSS-FUZZ by Google](https://github.com/google/oss-fuzz)
 - [Dom-Explorer](https://yeswehack.github.io/Dom-Explorer/dom-explorer)
+- [XSStrike](https://github.com/s0md3v/XSStrike)
