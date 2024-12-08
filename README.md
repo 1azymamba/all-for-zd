@@ -8,3 +8,8 @@ This project is "All for Zero Day".
 - [OSS-FUZZ by Google](https://github.com/google/oss-fuzz)
 - [Dom-Explorer](https://yeswehack.github.io/Dom-Explorer/dom-explorer)
 - [DOM-Invader]
+
+## Training resources
+- C lang
+- x86 assembly
+- Ghidra
