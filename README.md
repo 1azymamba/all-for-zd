@@ -13,3 +13,6 @@ This project is "All for Zero Day".
 - C lang
 - x86 assembly
 - Ghidra
+- [Corelan](https://www.corelan.be/)
+- [Exploit Development-Everything You Need to Know](https://null-byte.wonderhowto.com/how-to/exploit-development-everything-you-need-know-0167801/)
+- [FuzzySecurity2.0](http://www.fuzzysecurity.com/)
